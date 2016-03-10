@@ -7,7 +7,7 @@
 | Name   | Email              | GitHub |
 |--------|--------------------|--------|
 | Person | nurfaridairma28@gmail.com | [@farfarida](https://github.com/farfarida)
-| Person | person@website.com | [@name](https://github.com/name)
+| Person | freddyavriando@gmail.com | [@name](https://github.com/name)
 | Person | person@website.com | [@name](https://github.com/name)
 
 --------------------------------------------------
