@@ -8,7 +8,7 @@
 |--------|--------------------|--------|
 | Person | nurfaridairma28@gmail.com | [@farfarida](https://github.com/farfarida)
 | Person | freddyavriando@gmail.com | [@name](https://github.com/name)
-| Person | person@website.com | [@name](https://github.com/name)
+| Person | arum.kusumawardani@ymail.com | [@arumkw](https://github.com/arumkw)
 
 --------------------------------------------------
 
