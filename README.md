@@ -1,4 +1,4 @@
-# [Name Your Project Here]
+# P2C
 
 [Describe your project here]
 
@@ -6,10 +6,9 @@
 
 | Name   | Email              | GitHub |
 |--------|--------------------|--------|
-| Person | nurfaridairma28@gmail.com | [@farfarida](https://github.com/farfarida)
-| Person | freddyavriando@gmail.com | [@name](https://github.com/name)
-| Person | arum.kusumawardani@ymail.com | [@arumkw](https://github.com/arumkw)
-
+| Nur Farida Irmawati | nurfaridairma28@gmail.com | [@farfarida](https://github.com/farfarida)
+| Freddy Avriando | freddyavriando@gmail.com | [@name](https://github.com/name)
+| Arum Kusuma Wardani | arum.kusumawardani@ymail.com | [@arumkw](https://github.com/arumkw)
 --------------------------------------------------
 
 ## User Documentation
