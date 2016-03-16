@@ -22,7 +22,7 @@ Who
 + Masyarakat di sekitar sungai Cikeas, Cileungsi, dan Bekasi.
 
 Why
-+Karena forum P2C yang sudah ada sekarang masih menggunakan group chat telegram yang memiliki batasan member sehingga tidak semua orang bisa mengakses.
++ Karena forum P2C yang sudah ada sekarang masih menggunakan group chat telegram yang memiliki batasan member sehingga tidak semua orang bisa mengakses.
 
 How
 + Kami menggunakan metode "agile" dalam membangun website p2c dengan estimasi waktu yang tertera pada gantt chart. Data yang digunakan kami gunakan adalah data primer yang diperoleh dari calon admin website p2c. Website dibangun dengan menerapkan design parallax pada cms wordpress. 
