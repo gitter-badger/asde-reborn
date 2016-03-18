@@ -18,24 +18,6 @@
 
 (who, why, how, what, where, when)
 
-Who
-+ Masyarakat di sekitar sungai Cikeas, Cileungsi, dan Bekasi.
-
-Why
-+ Karena forum P2C yang sudah ada sekarang masih menggunakan group chat telegram yang memiliki batasan member sehingga tidak semua orang bisa mengakses.
-
-How
-+ Kami menggunakan metode "agile" dalam membangun website p2c dengan estimasi waktu yang tertera pada gantt chart. Data yang digunakan kami gunakan adalah data primer yang diperoleh dari calon admin website p2c. Website dibangun dengan menerapkan design parallax pada cms wordpress. 
-
-What
-+ Website p2c merupakan website yang memberikan informasi seputar ketinggian muka air sungai Cileungsi, Cikeas dan Bekasi secara aktual. Website ini juga memberikan forum terbuka kepada pengguna untuk saling bertukar informasi seputar banjir. Ketika komunitas peduli sungai Cileungsi, Cikeas, dan Bekasi mengadakan kegiatan, pihak admin dapat menampilkannya pada website p2c.
-
-Where
-+ P2c ini berbasis website yang dapat diakses oleh semua orang, khususnya masyarakat Bekasi.
-
-When
-+ Pembangunan website p2c dimulai dari minggu kedua di bulan Maret hingga minggu ketiga April 2016.
-
 ## Technical Documentation
 
 [How to develop, build, and use it.]
