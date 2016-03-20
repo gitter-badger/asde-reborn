@@ -9,7 +9,7 @@
 | Nur Farida Irmawati | nurfaridairma28@gmail.com | [@farfarida](https://github.com/farfarida)
 | Freddy Avriando | freddyavriando@gmail.com | [@name](https://github.com/name)
 | Arum Kusuma Wardani | arum.kusumawardani@ymail.com | [@arumkw](https://github.com/arumkw)
-| Ika Pretty Siregar | ika.prettys@gmail.com | [@arumkw](https://github.com/arumkw)
+| Ika Pretty Siregar | ika.prettys@gmail.com | [@ikaprtys](https://github.com/ikaprtys)
 --------------------------------------------------
 
 ## System Definition
