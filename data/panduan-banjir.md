@@ -31,7 +31,7 @@
      + Meter Circuit Breaker (MCB)/sekering dalam posisi mati (off).
      + Matikan semua peralatan listrik dengan mencabut kabel dari stop kontak.
    * Bawalah:
-     a. Tas survival.
+     + Tas survival.
         + Uang
         + Air minum dalam kemasam
         + Makanan siap santap
@@ -46,7 +46,7 @@
         + Pembalut wanita (Jika diperlukan)
         + Diapers (Jika diperlukan)
         + Susu anak (Jika diperlukan)
-      b. Tas P3K.
+      + Tas P3K.
          + Pembalut (mitella atau kain segitiga, verband, atau pembalut cepat berbagai ukuran (1,2, dan 3)
          + Plester obat
          + Antiseptik (misalnya keluarga dine: betadine, iodine, povidone, dll)
@@ -57,14 +57,14 @@
          + Plester untuk melekatkan verband
          + kasa steril
          + sarung tangan latex
-      c. Tas Darurat.
+      + Tas Darurat.
          + Peluit.
          + Pisau lipat multi fungsi.
          + Peralatan Pertolongan Pertama/P3K (gunting pembalut, pembalut cepat berbagai ukuran atau kain mitella – kain segi tiga, plester obat dan cairan antiseptik dalam botol kecil).
          + Senter kecil.
-      
-  6. JAGA KOMUNIKASI DENGAN KELUARGA, KERABAT DAN TIM PENYELAMAT
-  7. PASCA BANJIR, YUK BERSIHKAN RUMAH DAN LINGKUNGAN DENGAN CARA AMAN
+         
+6. JAGA KOMUNIKASI DENGAN KELUARGA, KERABAT DAN TIM PENYELAMAT
+7. PASCA BANJIR, YUK BERSIHKAN RUMAH DAN LINGKUNGAN DENGAN CARA AMAN
   
   
   source: http://hopeindonesia.org/pdf/7langkah.pdf
