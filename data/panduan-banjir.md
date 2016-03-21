@@ -1,20 +1,20 @@
 ##Langkah-langkah agar selamat dalam banjir
 
-  a. KENALI BANJIR DI DAERAH KITA
-      + Kenali hal-hal yang menyebabkan daerah rumah dilanda banjir.
+1. KENALI BANJIR DI DAERAH KITA
+  * Kenali hal-hal yang menyebabkan daerah rumah dilanda banjir.
       
-  b. BUATLAH RENCARA KEDARURATAN
-      + Membuat peta dan tentukan titik kumpul keluarga
-      + Menentukan peran dan tugas anggota kelompok
-      + Mencatat nomor penting
+2. BUATLAH RENCARA KEDARURATAN
+  * Membuat peta dan tentukan titik kumpul keluarga
+  * Menentukan peran dan tugas anggota kelompok
+  * Mencatat nomor penting
       + Menggunakan aplikasi info banjir
       + terhubung dengan sosial media lembaga/badan resmi informasi banjir dan pertolongan pertama
       
-  c. SIAPKAN TAS DARURAT, TAS SURVIVAL DAN TAS P3K, SERTA KETAHUI BAGAIMANA MENGGUNAKANNYA
-      + Tas darurat
-      + Tas Survival
-      + Tas P3K
-      + Teknik dasar pertolongan pertama
+3. SIAPKAN TAS DARURAT, TAS SURVIVAL DAN TAS P3K, SERTA KETAHUI BAGAIMANA MENGGUNAKANNYA
+  * Tas darurat
+  * Tas Survival
+  * Tas P3K
+  * Teknik dasar pertolongan pertama
       
   d. BUAT RUMAH KITA AMAN DARI DAMPAK BANJIR DAN YUK LAKUKAN SIMULASI
   
