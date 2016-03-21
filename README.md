@@ -12,7 +12,7 @@
 | Ika Pretty Siregar | ika.prettys@gmail.com | [@ikaprtys](https://github.com/ikaprtys)
 --------------------------------------------------
 
-## System Definition
+## User Documentation
 
 [Explanation about the project requirements, analysis, design, architecture, components, interfaces, evaluation, presentation, and other characteristics.]
 
