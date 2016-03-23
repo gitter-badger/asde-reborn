@@ -36,5 +36,5 @@
   * Koneksi Internet
   
 ## Harga Website
-  * FREE(????)
+  * *in progress*
     
