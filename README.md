@@ -1,5 +1,7 @@
 # P2C
 
+[![Join the chat at https://gitter.im/arumkw/asde-reborn](https://badges.gitter.im/arumkw/asde-reborn.svg)](https://gitter.im/arumkw/asde-reborn?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [Describe your project here]
 
 ## Team Member
